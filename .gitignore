@@ -1,0 +1,10 @@
+.vs/
+Hello_Git.VC.VC.opendb
+Hello_Git.VC.db
+Hello_Git.sln
+Debug/
+Release/
+Hello_Git/Debug/
+Hello_Git/Release/
+Hello_Git/Hello_Git.vcxproj
+Hello_Git/Hello_Git.vcxproj.filters
