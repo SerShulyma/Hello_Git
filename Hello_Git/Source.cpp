@@ -8,5 +8,5 @@ int main(void)
 	scanf("%i", &n);
 	for (int i=0; i<n; i++)
 	printf("Hello Git\n");
-	return 0;
+	return 1;
 }
